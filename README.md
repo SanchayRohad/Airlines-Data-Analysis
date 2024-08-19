@@ -15,5 +15,11 @@ Tight Labor Market: A shortage of skilled workers in the aviation sector has res
 
 Let's dive into the analysis to tackle these challenges!
 
+# Visualization
+![image](https://github.com/user-attachments/assets/9d5c7df3-3fd0-42e4-8c9c-b2336e80392d)
+![image](https://github.com/user-attachments/assets/149ec605-21fd-4693-a354-485e716e2fd9)
+![image](https://github.com/user-attachments/assets/353d3fce-9eb8-49c3-a457-93b0530d4665)
+![image](https://github.com/user-attachments/assets/27aa9978-5ae4-4cdf-be5f-205d8dc08f1f)
+![image](https://github.com/user-attachments/assets/a4ce708b-2349-4255-bafe-b6fbacc9f41d)
 
 
