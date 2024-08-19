@@ -1,25 +1,47 @@
-# Airlines-Data-Analysis
-Airlines Data Analysis
+# Airline_data_analysis
+In this project, I am prominently trying to Analyse the airline data set, First I made a Dashboard in order to have an overview of the data, then I perform Data analysis in Jupyter Notebook according to the problem statement, and then make a final report.
 
-# Business Problem:
+## Software  Used
+  Microsoft Power BI, Jupyter notebook
+  
+## Language 
+  Python, DAX
+  
+## Libraries
+  Pandas, Numpy, matplotlib, seaborn
+  
+## Steps, I follow 
+ 
+- ### Dashboard Making 
 
-Our airline, known for delivering high-quality air transportation with a diverse fleet, is grappling with profitability challenges. Rising costs from stricter environmental regulations, increased flight taxes, higher interest rates, escalating fuel prices, and a tight labor market are putting significant pressure on our margins. To address these issues, I am analyzing our database to uncover opportunities for improving occupancy rates and enhancing the average profit per seat.
+  - Data cleaning 
+  - Data Modification
+  - Define KPIs
+  - Calculated measures according to KPIs ( Using DAX ) 
+  - Choose the right visuals 
+  - Dashboard Creation
 
-# Key Obstacles:
+- ### Data Analysis using Python  
 
-Stricter Environmental Regulations: Increasing pressure to lower carbon emissions has led to more stringent environmental laws. These regulations not only elevate operating costs but also limit expansion opportunities.
+  - Data load 
+  - Data Cleaning and modifications 
+  - Removing outliers 
+  - Data analysis and findings 
 
-Higher Flight Taxes: Governments are imposing heavier taxes on aircraft to address environmental issues and generate revenue, which raises the cost of flying and reduces demand.
+- ### Final Report ( Report Contains )
 
-Tight Labor Market: A shortage of skilled workers in the aviation sector has resulted in higher labor costs and increased turnover rates.
+  - Problem statement 
+  - Assumptions 
+  - research questions 
+  - Data analysis and findings 
+  - Conclusion 
+  - Suggestions
 
-Let's dive into the analysis to tackle these challenges!
+## Some Screenshots of Analysis
+<img width="880" alt="Screenshot 2023-08-20 at 3 42 24 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/7efb4c8d-3079-41f7-a1c5-2c6f8146f14e">
+<img width="887" alt="Screenshot 2023-08-20 at 3 41 51 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/20364691-50eb-4ab3-8aaa-13c57ab2de83">
+<img width="884" alt="Screenshot 2023-08-20 at 3 42 38 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/315357d8-b11e-4ad6-9c08-66d0cad0dbff">
+<img width="882" alt="Screenshot 2023-08-20 at 3 42 56 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/a2528c5c-e077-4b44-8fd1-83fe5251222c">
 
-# Visualization
-![image](https://github.com/user-attachments/assets/9d5c7df3-3fd0-42e4-8c9c-b2336e80392d)
-![image](https://github.com/user-attachments/assets/149ec605-21fd-4693-a354-485e716e2fd9)
-![image](https://github.com/user-attachments/assets/353d3fce-9eb8-49c3-a457-93b0530d4665)
-![image](https://github.com/user-attachments/assets/27aa9978-5ae4-4cdf-be5f-205d8dc08f1f)
-![image](https://github.com/user-attachments/assets/a4ce708b-2349-4255-bafe-b6fbacc9f41d)
 
 
